@@ -1,1 +1,1 @@
-# fresh
+Just exploring this frontend framework.
